@@ -7,7 +7,8 @@ Marriages,Functions and in any meetings etc. to the orphanages and homeless peop
 orphanages to which they want to donate their excess amount of food which have been going to waste.To prevent the wastage of food, everyone need to be aware of food waste
 management system.So, in one of the cases this website gives awareness on the food.
 FlowChart:-
-![WhatsApp Image 2024-03-01 at 00 00 31_fca531d4](https://github.com/KurliChidvilashi/KurliChidvilashi/assets/152766937/ca4a53ae-c726-40ce-bdaf-81ce1feb3062)
+![WhatsApp Image 2024-03-01 at 00 06 12_811008ee](https://github.com/KurliChidvilashi/KurliChidvilashi/assets/152766937/3adf79c7-6fa8-4b6b-b258-8c1bb333676f)
+
 
 
 
